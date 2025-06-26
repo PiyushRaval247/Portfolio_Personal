@@ -19,7 +19,7 @@ function App() {
     <>
       <div className=" w-[100%] h-auto bg-bodyColor text-lightText px-4 ">
         <Navbar/>
-        <div className='max-w-screen-2xl mx-auto px-[10px] sm:px-16'>
+        <div className='max-w-screen-2xl mx-auto px-[10px] md:px-16'>
         <Banner/>
         <Features/>
         <Projects/>
